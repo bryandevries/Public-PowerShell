@@ -1,4 +1,4 @@
-# Author: b.devries@fortezza-groep.nl
+# Author: https://github.com/bryandevries/
 
 # Version 1.1
 # Date initial version: 07-02-2023
